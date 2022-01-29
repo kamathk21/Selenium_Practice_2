@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126580" started-at="2022-01-29T16:36:22 IST" finished-at="2022-01-29T16:38:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126580" started-at="2022-01-29T16:36:22 IST" finished-at="2022-01-29T16:38:29 IST">
+      <class name="com.qa.test.flightResultTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.flightResultTest@fcd6521]" name="setup" is-config="true" duration-ms="65190" started-at="2022-01-29T16:36:22 IST" finished-at="2022-01-29T16:37:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="countTotalFlightsTest()[pri:1, instance:com.qa.test.flightResultTest@fcd6521]" name="countTotalFlightsTest" duration-ms="4088" started-at="2022-01-29T16:37:27 IST" finished-at="2022-01-29T16:37:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countTotalFlightsTest -->
+        <test-method status="PASS" signature="countFilteredFlightsTest()[pri:2, instance:com.qa.test.flightResultTest@fcd6521]" name="countFilteredFlightsTest" duration-ms="12312" started-at="2022-01-29T16:37:31 IST" finished-at="2022-01-29T16:37:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countFilteredFlightsTest -->
+        <test-method status="PASS" signature="selectRandomFlightsTest()[pri:3, instance:com.qa.test.flightResultTest@fcd6521]" name="selectRandomFlightsTest" duration-ms="36367" started-at="2022-01-29T16:37:44 IST" finished-at="2022-01-29T16:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRandomFlightsTest -->
+        <test-method status="PASS" signature="checkTotalPriceTest()[pri:4, instance:com.qa.test.flightResultTest@fcd6521]" name="checkTotalPriceTest" duration-ms="5702" started-at="2022-01-29T16:38:20 IST" finished-at="2022-01-29T16:38:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTotalPriceTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.flightResultTest@fcd6521]" name="teardown" is-config="true" duration-ms="2880" started-at="2022-01-29T16:38:26 IST" finished-at="2022-01-29T16:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.flightResultTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium practice 2 suite">
+	<test name="Coding challenge test 2">
+		<classes>
+			<class name="com.qa.test.searchFlightTest" />
+			<class name="com.qa.test.flightResultTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
